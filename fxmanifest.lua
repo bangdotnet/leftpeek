@@ -12,6 +12,6 @@ client_scripts {
 
 -- like it? contact me for custom, paid stuff
 
--- github: https://github.com/zugriffsrichter
--- discord: zugriffsrichter
--- gmail: zugriffsrichter@gmail.com
+-- github: https://github.com/bangdotnet
+-- discord: bang.net
+-- gmail: bang00net@gmail.com
