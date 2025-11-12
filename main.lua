@@ -67,5 +67,5 @@ local function toggle()
         start()
     end
 end
-RegisterKeyMapping(zugriffsrichter.bind.command, zugriffsrichter.bind.label, 'keyboard', zugriffsrichter.bind.key)
-RegisterCommand(zugriffsrichter.bind.command, toggle)
+RegisterKeyMapping(bang.bind.command, bang.bind.label, 'keyboard', bang.bind.key)
+RegisterCommand(bang.bind.command, toggle)
