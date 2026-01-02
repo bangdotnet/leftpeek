@@ -1,6 +1,6 @@
 zugriffsrichter = {
     bind = {
-        command = "zugriffsrichter_leftpeak",
+        command = "peek",
         label = "Left Peek",
         key = "G" -- change this, to add in your own keybind
     }
