@@ -67,5 +67,5 @@ local function toggle()
         start()
     end
 end
-RegisterKeyMapping(bang.bind.command, bang.bind.label, 'keyboard', bang.bind.key)
-RegisterCommand(bang.bind.command, toggle)
+RegisterKeyMapping(peek.bind.command, peek.bind.label, 'keyboard', peek.bind.key)
+RegisterCommand(peek.bind.command, toggle)
